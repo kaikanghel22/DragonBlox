@@ -10,17 +10,17 @@ if not game:IsLoaded() then
 game.Loaded:Wait()
 end
 
-local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/Hydrazia/Exploits/refs/heads/main/ORION")))()
+local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/kaikanghel22/Orion/refs/heads/main/ORION")))()
 
 OrionLib:MakeNotification({
 Name = "Dragon Blox",
-Content = "Scripted By Hydrazia (Not My Fault If You Get Banned Don't Hack In Public Servers!)",
+Content = "Scripted By Gab (Not My Fault If You Get Banned Don't Hack In Public Servers!)",
 Image = "rbxassetid://4483345998",
 Time = 5
 })
 
 local Window = OrionLib:MakeWindow({
-Name = "Turbo | Dragon Blox [" .. os.date("%Y") .. "]",
+Name = "Gab | Dragon Blox [" .. os.date("%Y") .. "]",
 HidePremium = false,
 SaveConfig = false,
 ConfigFolder = "Dragon Blox",
