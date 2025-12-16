@@ -3331,7 +3331,7 @@ elseif game.PlaceId == 7040546583 then -- World 2
 if not game:IsLoaded() then
 game.Loaded:Wait()
 end
-local OrionLib = loadstring(game:HttpGet(("loadstring(game:HttpGet("https://raw.githubusercontent.com/kaikanghel22/Orion/refs/heads/main/ORION")))();
+local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/kaikanghel22/Orion/refs/heads/main/ORION")))();
 OrionLib:MakeNotification({
 Name = "Dragon Blox",
 Content = "Scripted By Hydrazia (Not My Fault If You Get Banned Don't Hack In Public Servers!)",
@@ -5687,7 +5687,7 @@ elseif game.PlaceId == 7888441249 then -- World 3
 if not game:IsLoaded() then
 game.Loaded:Wait()
 end
-local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/Hydrazia/Exploits/refs/heads/main/ORION")))();
+local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/kaikanghel22/Orion/refs/heads/main/ORION")))();
 OrionLib:MakeNotification({
 Name = "Dragon Blox",
 Content = "Scripted By Pumpkin",
