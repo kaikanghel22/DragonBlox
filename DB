@@ -3334,7 +3334,7 @@ end
 local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/kaikanghel22/Orion/refs/heads/main/ORION")))();
 OrionLib:MakeNotification({
 Name = "Dragon Blox",
-Content = "Scripted By Hydrazia (Not My Fault If You Get Banned Don't Hack In Public Servers!)",
+Content = "Scripted By Pumpkin",
 Image = "rbxassetid://131952136024212",
 Time = 5
 })
